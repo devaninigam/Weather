@@ -19,11 +19,11 @@ This Weather App allows users to check the current weather conditions by enterin
    ```bash
    git clone https://github.com/devaninigam/Weather.git
 
-   Navigate to the Project Directory:
-    --- cd weather-app
+2. ** Navigate to the Project Directory:**
+    cd weather-app
 
-    Install Dependencies:
-    --- npm i
+3. **Install Dependencies:**
+   npm i
 
-   Run the Development Server:
-   ---- npm run dev
+4.  **Run the Development Server:**
+   npm run dev
