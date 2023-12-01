@@ -19,7 +19,7 @@ This Weather App allows users to check the current weather conditions by enterin
    ```bash
    git clone https://github.com/devaninigam/Weather.git
 
-2. ** Navigate to the Project Directory:**
+2. **Navigate to the Project Directory:**
     cd weather-app
 
 3. **Install Dependencies:**
